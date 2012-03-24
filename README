@@ -1,0 +1,21 @@
+``__``__``````_````````_``__``````_```````_`````_```
+`|``\/``|`___|`|_`__`_|`|/`/_`__`(_)`__`_|`|__`|`|_`
+`|`|\/|`|/`_`\`__/`_``|`'`/|`'_`\|`|/`_``|`'_`\|`__|
+`|`|``|`|``__/`|_`(_|`|`.`\|`|`|`|`|`(_|`|`|`|`|`|_`
+`|_|``|_|\___|\__\__,_|_|\_\_|`|_|_|\__,`|_|`|_|\__|
+````````````````````````````````````|___/```````````
+Nick McGill + Kevin Jiang
+
+This project's focus is to develop a low-cost physical therapy aid.  Here are some of the goals of the project.
+
+1.Observance
+⁃Map the way the arm moves in the 3d plane
+⁃Track the arm angles as accurately possible with the current tech
+⁃Maybe add more sensors later?
+⁃Non-compliance
+⁃Can track people
+
+2. Guidance
+⁃Map the desired motion on screen for the patient to follow
+
+
